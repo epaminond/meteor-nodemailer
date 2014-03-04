@@ -1,0 +1,1 @@
+Nodemailer = Npm.require('nodemailer');
