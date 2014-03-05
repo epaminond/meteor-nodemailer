@@ -1,4 +1,4 @@
-meteor-nodmailer
+meteor-nodemailer
 ================
 
 Meteor wrapper for Nodemailer
@@ -9,4 +9,4 @@ Use meteorite:
 
 Then add via:
 
-```mrt add meteor-nodmailer```
+```mrt add meteor-nodemailer```
