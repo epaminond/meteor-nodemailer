@@ -1,4 +1,4 @@
-meteor-nodmailer
+meteor-nodemailer
 ================
 
 Meteor wrapper for Nodemailer
