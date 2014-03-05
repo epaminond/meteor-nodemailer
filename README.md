@@ -9,4 +9,4 @@ Use meteorite:
 
 Then add via:
 
-```mrt add meteor-nodmailer```
+```mrt add meteor-nodemailer```
