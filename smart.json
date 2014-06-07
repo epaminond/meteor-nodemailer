@@ -3,7 +3,7 @@
   "description": "Meteor wrapper for Nodemailer",
   "homepage": "https://github.com/Termina1/meteor-nodemailer",
   "author": "Termina1",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "git": "https://github.com/Termina1/meteor-nodemailer.git",
   "packages": {}
 }
