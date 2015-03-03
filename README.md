@@ -1,15 +1,11 @@
 meteor-nodemailer
 ================
 
-Meteor wrapper for Nodemailer
+Meteor wrapper for [Nodemailer](epaminond:nodemailer).
 
 Install
 
-Use meteorite:
-
-Then add via:
-
-```mrt add meteor-nodemailer```
+```meteor add epaminond:nodemailer```
 
 ## Usage
 
