@@ -1,7 +1,7 @@
 meteor-nodemailer
 ================
 
-Meteor wrapper for [Nodemailer](epaminond:nodemailer).
+Meteor wrapper for [Nodemailer](https://github.com/andris9/Nodemailer).
 
 Install
 
