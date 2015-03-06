@@ -1,6 +1,6 @@
 Package.describe({
   name: 'epaminond:nodemailer',
-  version: '1.3.2',
+  version: '1.3.1',
   summary: "Meteor wrapper for Nodemailer",
   git: 'https://github.com/epaminond/meteor-nodemailer.git',
   documentation: 'README.md'
