@@ -11,7 +11,7 @@ Npm.depends({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.0.3.4');
+  api.versionsFrom('1.0.3.2');
   api.add_files('nodemailer.js', 'server');
   api.export("Nodemailer");
 });
